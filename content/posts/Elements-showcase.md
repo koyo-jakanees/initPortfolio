@@ -14,18 +14,19 @@ thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/elements-showcase/vintage-140.jp
 Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It's simple and elegant.
 <!--more-->
 
-# Heading 1
+# Footer 1
 
-## Heading 2
+## Footer 2
 
-### Heading 3
+### Footer 3
 
-#### Heading 4
+#### Footer 4
 
-##### Heading 5
+##### Footer 5
 
-###### Heading 6
+###### Footer 6
 
+ Edited by Ibrahim
 
 ## Paragraph
 
